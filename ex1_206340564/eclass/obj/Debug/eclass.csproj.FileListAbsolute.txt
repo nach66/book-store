@@ -1,0 +1,6 @@
+C:\Users\nach6\source\repos\WpfApp1\eclass\bin\Debug\eclass.dll
+C:\Users\nach6\source\repos\WpfApp1\eclass\bin\Debug\eclass.pdb
+C:\Users\nach6\source\repos\WpfApp1\eclass\obj\Debug\eclass.csprojResolveAssemblyReference.cache
+C:\Users\nach6\source\repos\WpfApp1\eclass\obj\Debug\eclass.csproj.CoreCompileInputs.cache
+C:\Users\nach6\source\repos\WpfApp1\eclass\obj\Debug\eclass.dll
+C:\Users\nach6\source\repos\WpfApp1\eclass\obj\Debug\eclass.pdb

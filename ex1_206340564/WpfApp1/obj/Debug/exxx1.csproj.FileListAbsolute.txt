@@ -1,0 +1,36 @@
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\exxx1.csprojResolveAssemblyReference.cache
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\bin\Debug\eclass.pdb
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\exxx1.csproj.GenerateResource.cache
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\exxx1.csproj.CoreCompileInputs.cache
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\exxx1.csproj.CopyComplete
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\nach6\source\repos\WpfApp1\WpfApp1\bin\Debug\eclass.dll
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\bin\Debug\eclass.dll
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\bin\Debug\eclass.pdb
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\exxx1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\exxx1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\exxx1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\exxx1.csproj.CopyComplete
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\לימודים\סמסטר ב\C#\תרגילים\ex1_206340564\WpfApp1\obj\Debug\WpfApp1.pdb
